@@ -31,7 +31,7 @@ NUM	FORMAT	WIDTH	HEIGHT	SIZE	FILENAME
 ## Install
 
 ```shell
-$ go get -u github.com/rsookram/imgls/cmd/imgls
+$ go get -u github.com/jadibrahim/lsimages/cmd/lsimg
 ```
 
 
